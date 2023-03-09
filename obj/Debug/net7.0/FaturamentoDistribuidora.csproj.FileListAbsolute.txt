@@ -1,0 +1,15 @@
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\FaturamentoDistribuidora\bin\Debug\net7.0\FaturamentoDistribuidora.exe
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\FaturamentoDistribuidora\bin\Debug\net7.0\FaturamentoDistribuidora.deps.json
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\FaturamentoDistribuidora\bin\Debug\net7.0\FaturamentoDistribuidora.runtimeconfig.json
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\FaturamentoDistribuidora\bin\Debug\net7.0\FaturamentoDistribuidora.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\FaturamentoDistribuidora\bin\Debug\net7.0\FaturamentoDistribuidora.pdb
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\FaturamentoDistribuidora\obj\Debug\net7.0\FaturamentoDistribuidora.csproj.AssemblyReference.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\FaturamentoDistribuidora\obj\Debug\net7.0\FaturamentoDistribuidora.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\FaturamentoDistribuidora\obj\Debug\net7.0\FaturamentoDistribuidora.AssemblyInfoInputs.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\FaturamentoDistribuidora\obj\Debug\net7.0\FaturamentoDistribuidora.AssemblyInfo.cs
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\FaturamentoDistribuidora\obj\Debug\net7.0\FaturamentoDistribuidora.csproj.CoreCompileInputs.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\FaturamentoDistribuidora\obj\Debug\net7.0\FaturamentoDistribuidora.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\FaturamentoDistribuidora\obj\Debug\net7.0\refint\FaturamentoDistribuidora.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\FaturamentoDistribuidora\obj\Debug\net7.0\FaturamentoDistribuidora.pdb
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\FaturamentoDistribuidora\obj\Debug\net7.0\FaturamentoDistribuidora.genruntimeconfig.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\FaturamentoDistribuidora\obj\Debug\net7.0\ref\FaturamentoDistribuidora.dll
